@@ -17,7 +17,7 @@ To get a Git project into your build:
 
 ```
 	dependencies {
-	        implementation 'com.github.chanjungkim:Gson:Tag'
+	        implementation 'com.github.chanjungkim:Gson:1.0.0'
 	}
 ```
 
